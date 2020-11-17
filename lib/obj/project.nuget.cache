@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YDq478yTh/3Eyz27lJ+ol0rhkQAhr/fy3pOfrI9a2PDhBr7mP8mi6d4OuYWsnRoh8BDdgBSsk+se238M5N+3JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arsen\\source\\repos\\kpz-4\\lib\\Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arsen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Arsen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

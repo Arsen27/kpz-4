@@ -1,0 +1,16 @@
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\bin\Debug\netcoreapp3.1\Console.exe
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\bin\Debug\netcoreapp3.1\Console.deps.json
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\bin\Debug\netcoreapp3.1\Console.dll
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\bin\Debug\netcoreapp3.1\Console.pdb
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\bin\Debug\netcoreapp3.1\Lib.dll
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\bin\Debug\netcoreapp3.1\Lib.pdb
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\obj\Debug\netcoreapp3.1\Console.dll
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\obj\Debug\netcoreapp3.1\Console.pdb
+C:\Users\Arsen\source\repos\kpz-4\kpz-4\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
